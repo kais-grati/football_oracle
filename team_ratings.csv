@@ -1,0 +1,485 @@
+season,league,team,gk_rating,def_avg,mid_avg,att_avg
+2021-22,Bundesliga,Augsburg,79.0,74.75,74.333,75.667
+2021-22,Bundesliga,Bayern Munich,90.0,82.25,87.667,87.667
+2021-22,Bundesliga,Bielefeld,78.0,72.25,72.667,72.667
+2021-22,Bundesliga,Bochum,74.0,72.75,72.0,72.667
+2021-22,Bundesliga,Dortmund,80.0,82.0,83.333,83.333
+2021-22,Bundesliga,Ein Frankfurt,82.0,76.75,78.0,79.333
+2021-22,Bundesliga,FC Koln,76.0,72.0,76.667,73.667
+2021-22,Bundesliga,Freiburg,75.0,76.25,73.333,76.667
+2021-22,Bundesliga,Greuther Furth,72.0,72.0,72.333,72.0
+2021-22,Bundesliga,Hertha,77.0,75.5,76.667,75.667
+2021-22,Bundesliga,Hoffenheim,82.0,76.0,77.333,78.667
+2021-22,Bundesliga,Leverkusen,83.0,77.0,79.0,79.667
+2021-22,Bundesliga,M'gladbach,85.0,80.5,81.333,78.333
+2021-22,Bundesliga,Mainz,74.0,75.25,75.0,71.667
+2021-22,Bundesliga,RB Leipzig,85.0,81.25,81.333,78.0
+2021-22,Bundesliga,Stuttgart,77.0,75.25,75.667,75.0
+2021-22,Bundesliga,Union Berlin,76.0,75.75,73.667,75.667
+2021-22,Bundesliga,Wolfsburg,86.0,78.25,79.333,80.333
+2021-22,La Liga,Alaves,80.0,76.75,74.667,74.333
+2021-22,La Liga,Ath Bilbao,82.0,81.0,78.667,80.333
+2021-22,La Liga,Ath Madrid,91.0,84.0,84.333,85.667
+2021-22,La Liga,Barcelona,90.0,83.25,85.0,85.0
+2021-22,La Liga,Betis,81.0,78.5,81.667,80.0
+2021-22,La Liga,Cadiz,77.0,74.0,73.333,76.667
+2021-22,La Liga,Celta,75.0,76.25,77.667,79.0
+2021-22,La Liga,Elche,79.0,73.25,76.333,77.0
+2021-22,La Liga,Espanol,77.0,76.75,77.667,79.0
+2021-22,La Liga,Getafe,81.0,77.25,77.333,77.333
+2021-22,La Liga,Granada,76.0,78.5,77.667,78.667
+2021-22,La Liga,Levante,81.0,75.5,78.333,80.0
+2021-22,La Liga,Mallorca,73.0,75.0,75.0,76.333
+2021-22,La Liga,Osasuna,78.0,76.75,76.0,78.667
+2021-22,La Liga,Real Madrid,89.0,83.5,88.0,85.667
+2021-22,La Liga,Sevilla,82.0,83.25,83.667,82.333
+2021-22,La Liga,Sociedad,81.0,79.0,82.333,83.0
+2021-22,La Liga,Valencia,81.0,80.5,75.0,79.0
+2021-22,La Liga,Vallecano,75.0,73.5,75.0,76.333
+2021-22,La Liga,Villarreal,83.0,80.75,81.667,81.667
+2021-22,Ligue 1,Angers,77.0,74.5,72.333,74.667
+2021-22,Ligue 1,Bordeaux,79.0,74.0,76.333,75.0
+2021-22,Ligue 1,Brest,77.0,73.0,69.333,75.0
+2021-22,Ligue 1,Clermont,72.0,71.75,72.0,72.667
+2021-22,Ligue 1,Lens,75.0,75.0,77.0,73.667
+2021-22,Ligue 1,Lille,74.0,79.25,79.333,80.0
+2021-22,Ligue 1,Lorient,73.0,72.0,73.0,72.333
+2021-22,Ligue 1,Lyon,82.0,79.75,80.333,78.333
+2021-22,Ligue 1,Marseille,81.0,77.5,79.0,79.333
+2021-22,Ligue 1,Metz,78.0,75.25,74.667,71.667
+2021-22,Ligue 1,Monaco,75.0,77.75,78.667,81.667
+2021-22,Ligue 1,Montpellier,77.0,75.0,78.0,73.0
+2021-22,Ligue 1,Nantes,78.0,74.25,74.333,74.0
+2021-22,Ligue 1,Nice,80.0,76.25,75.667,79.333
+2021-22,Ligue 1,Paris SG,89.0,85.75,84.333,91.667
+2021-22,Ligue 1,Reims,78.0,75.25,73.0,74.0
+2021-22,Ligue 1,Rennes,76.0,76.25,77.333,78.0
+2021-22,Ligue 1,St Etienne,72.0,73.75,74.667,75.667
+2021-22,Ligue 1,Strasbourg,77.0,74.5,75.0,76.667
+2021-22,Ligue 1,Troyes,73.0,71.5,73.667,74.0
+2021-22,Premier League,Arsenal,83.0,78.0,81.333,82.667
+2021-22,Premier League,Aston Villa,84.0,78.0,77.0,80.667
+2021-22,Premier League,Brentford,74.0,74.5,74.0,75.0
+2021-22,Premier League,Brighton,76.0,76.25,76.667,78.333
+2021-22,Premier League,Burnley,83.0,78.0,76.667,77.0
+2021-22,Premier League,Chelsea,83.0,83.25,86.333,85.333
+2021-22,Premier League,Crystal Palace,80.0,76.25,75.667,78.0
+2021-22,Premier League,Everton,83.0,80.25,80.333,81.333
+2021-22,Premier League,Leeds,77.0,77.0,78.333,79.333
+2021-22,Premier League,Leicester,85.0,80.75,83.667,81.667
+2021-22,Premier League,Liverpool,89.0,86.5,85.333,87.667
+2021-22,Premier League,Man City,89.0,86.0,87.667,86.0
+2021-22,Premier League,Man United,84.0,84.25,85.333,87.667
+2021-22,Premier League,Newcastle,81.0,75.75,76.0,77.667
+2021-22,Premier League,Norwich,77.0,75.25,75.0,76.0
+2021-22,Premier League,Southampton,75.0,76.5,77.333,76.333
+2021-22,Premier League,Tottenham,87.0,80.25,82.0,86.667
+2021-22,Premier League,Watford,78.0,74.75,77.0,76.0
+2021-22,Premier League,West Ham,82.0,80.0,81.333,78.667
+2021-22,Premier League,Wolves,79.0,79.5,79.667,79.667
+2021-22,Serie A,Atalanta,81.0,80.75,80.333,83.0
+2021-22,Serie A,Bologna,75.0,74.0,76.667,74.0
+2021-22,Serie A,Cagliari,81.0,75.0,75.667,77.0
+2021-22,Serie A,Empoli,71.0,71.75,70.667,73.333
+2021-22,Serie A,Fiorentina,77.0,76.75,78.333,78.333
+2021-22,Serie A,Genoa,82.0,74.75,74.667,75.667
+2021-22,Serie A,Inter,86.0,83.25,83.333,83.0
+2021-22,Serie A,Juventus,87.0,84.75,82.0,84.333
+2021-22,Serie A,Lazio,80.0,80.25,83.333,81.0
+2021-22,Serie A,Milan,84.0,82.5,81.0,81.667
+2021-22,Serie A,Napoli,79.0,81.75,81.0,83.667
+2021-22,Serie A,Roma,82.0,79.5,80.333,80.0
+2021-22,Serie A,Salernitana,73.0,71.0,71.333,74.0
+2021-22,Serie A,Sampdoria,78.0,73.0,75.667,78.333
+2021-22,Serie A,Sassuolo,81.0,73.5,76.0,77.667
+2021-22,Serie A,Spezia,75.0,70.5,70.667,72.667
+2021-22,Serie A,Torino,75.0,77.25,76.333,77.667
+2021-22,Serie A,Udinese,79.0,74.0,75.333,76.0
+2021-22,Serie A,Venezia,70.0,72.5,70.0,72.0
+2021-22,Serie A,Verona,74.0,75.5,75.333,76.333
+2022-23,Bundesliga,Augsburg,77.0,75.75,76.333,74.667
+2022-23,Bundesliga,Bayern Munich,90.0,82.25,87.667,86.667
+2022-23,Bundesliga,Bochum,79.0,72.75,73.333,73.667
+2022-23,Bundesliga,Dortmund,83.0,83.25,83.667,80.333
+2022-23,Bundesliga,Ein Frankfurt,86.0,76.5,80.333,78.0
+2022-23,Bundesliga,FC Koln,77.0,75.75,76.0,74.667
+2022-23,Bundesliga,Freiburg,80.0,78.5,75.667,77.0
+2022-23,Bundesliga,Hertha,72.0,74.25,74.0,75.667
+2022-23,Bundesliga,Hoffenheim,83.0,75.75,76.333,80.667
+2022-23,Bundesliga,Leverkusen,83.0,79.0,81.333,83.0
+2022-23,Bundesliga,M'gladbach,85.0,77.25,80.0,73.667
+2022-23,Bundesliga,Mainz,76.0,75.75,76.333,74.333
+2022-23,Bundesliga,RB Leipzig,85.0,81.0,83.667,80.333
+2022-23,Bundesliga,Schalke 04,70.0,72.5,74.0,75.0
+2022-23,Bundesliga,Stuttgart,76.0,77.0,74.667,75.333
+2022-23,Bundesliga,Union Berlin,69.0,75.75,73.667,74.333
+2022-23,Bundesliga,Werder Bremen,78.0,74.25,71.333,73.0
+2022-23,Bundesliga,Wolfsburg,84.0,76.0,79.667,78.0
+2022-23,La Liga,Almeria,78.0,73.5,74.333,75.0
+2022-23,La Liga,Ath Bilbao,83.0,80.25,78.667,81.667
+2022-23,La Liga,Ath Madrid,89.0,82.0,84.0,82.667
+2022-23,La Liga,Barcelona,88.0,83.75,85.667,86.333
+2022-23,La Liga,Betis,80.0,78.5,82.0,81.333
+2022-23,La Liga,Cadiz,80.0,76.0,74.667,76.667
+2022-23,La Liga,Celta,79.0,78.5,79.0,79.0
+2022-23,La Liga,Elche,80.0,74.0,74.667,76.667
+2022-23,La Liga,Espanol,77.0,74.5,77.667,78.333
+2022-23,La Liga,Getafe,82.0,77.25,79.333,78.333
+2022-23,La Liga,Girona,74.0,71.25,77.0,76.333
+2022-23,La Liga,Mallorca,78.0,75.75,74.333,75.0
+2022-23,La Liga,Osasuna,78.0,77.0,71.667,78.0
+2022-23,La Liga,Real Madrid,90.0,85.25,86.667,87.0
+2022-23,La Liga,Sevilla,84.0,81.75,83.0,80.0
+2022-23,La Liga,Sociedad,82.0,79.0,81.667,79.0
+2022-23,La Liga,Valencia,78.0,78.75,75.0,77.667
+2022-23,La Liga,Valladolid,79.0,75.5,76.0,75.0
+2022-23,La Liga,Vallecano,79.0,74.75,76.333,76.333
+2022-23,La Liga,Villarreal,82.0,80.5,82.333,82.333
+2022-23,Ligue 1,Ajaccio,73.0,70.0,72.667,70.333
+2022-23,Ligue 1,Angers,76.0,72.5,74.333,73.0
+2022-23,Ligue 1,Auxerre,75.0,71.25,70.0,73.0
+2022-23,Ligue 1,Brest,76.0,73.25,74.0,75.333
+2022-23,Ligue 1,Clermont,69.0,69.25,74.0,70.667
+2022-23,Ligue 1,Lens,75.0,74.25,77.0,75.333
+2022-23,Ligue 1,Lille,73.0,77.0,76.333,76.667
+2022-23,Ligue 1,Lorient,75.0,71.0,74.0,70.0
+2022-23,Ligue 1,Lyon,82.0,77.75,79.667,79.667
+2022-23,Ligue 1,Marseille,79.0,78.25,80.333,73.0
+2022-23,Ligue 1,Monaco,78.0,77.5,78.333,81.0
+2022-23,Ligue 1,Montpellier,79.0,74.5,77.333,74.667
+2022-23,Ligue 1,Nantes,80.0,75.5,77.667,74.667
+2022-23,Ligue 1,Nice,83.0,76.5,77.667,80.0
+2022-23,Ligue 1,Paris SG,88.0,84.75,87.0,87.0
+2022-23,Ligue 1,Reims,73.0,74.0,73.333,74.333
+2022-23,Ligue 1,Rennes,79.0,76.5,78.667,79.333
+2022-23,Ligue 1,Strasbourg,79.0,75.25,76.0,77.667
+2022-23,Ligue 1,Toulouse,73.0,71.5,72.667,72.333
+2022-23,Ligue 1,Troyes,74.0,70.75,73.0,74.0
+2022-23,Premier League,Arsenal,82.0,80.25,82.667,81.0
+2022-23,Premier League,Aston Villa,84.0,80.75,80.667,75.667
+2022-23,Premier League,Bournemouth,81.0,74.75,75.0,73.0
+2022-23,Premier League,Brentford,78.0,75.75,75.667,74.333
+2022-23,Premier League,Brighton,77.0,78.0,76.333,73.0
+2022-23,Premier League,Chelsea,86.0,84.75,86.0,84.667
+2022-23,Premier League,Crystal Palace,79.0,75.5,76.333,78.0
+2022-23,Premier League,Everton,82.0,78.5,80.333,77.667
+2022-23,Premier League,Fulham,80.0,77.5,76.0,77.333
+2022-23,Premier League,Leeds,77.0,76.25,75.333,78.333
+2022-23,Premier League,Leicester,75.0,81.0,82.0,79.333
+2022-23,Premier League,Liverpool,89.0,85.5,86.667,86.333
+2022-23,Premier League,Man City,89.0,86.75,88.667,86.0
+2022-23,Premier League,Man United,87.0,81.25,86.333,84.333
+2022-23,Premier League,Newcastle,81.0,79.5,79.667,79.0
+2022-23,Premier League,Nott'm Forest,79.0,78.5,78.333,76.0
+2022-23,Premier League,Southampton,75.0,77.0,77.333,76.0
+2022-23,Premier League,Tottenham,87.0,80.25,81.667,87.333
+2022-23,Premier League,West Ham,82.0,80.25,81.667,79.667
+2022-23,Premier League,Wolves,81.0,78.0,81.0,81.0
+2022-23,Serie A,Atalanta,81.0,80.0,78.333,82.333
+2022-23,Serie A,Bologna,76.0,74.5,76.333,77.333
+2022-23,Serie A,Cremonese,74.0,72.25,74.0,71.333
+2022-23,Serie A,Empoli,78.0,73.0,75.0,68.667
+2022-23,Serie A,Fiorentina,78.0,78.0,78.667,79.0
+2022-23,Serie A,Inter,84.0,84.0,85.333,85.333
+2022-23,Serie A,Juventus,86.0,82.5,82.333,84.333
+2022-23,Serie A,Lazio,79.0,77.5,82.667,81.333
+2022-23,Serie A,Lecce,69.0,73.0,73.667,71.667
+2022-23,Serie A,Milan,87.0,82.75,81.333,82.667
+2022-23,Serie A,Monza,80.0,74.0,77.667,74.333
+2022-23,Serie A,Napoli,78.0,79.75,81.667,81.667
+2022-23,Serie A,Roma,82.0,81.0,83.667,79.667
+2022-23,Serie A,Salernitana,74.0,73.25,75.333,78.333
+2022-23,Serie A,Sampdoria,78.0,73.75,75.333,73.0
+2022-23,Serie A,Sassuolo,80.0,73.5,77.667,78.333
+2022-23,Serie A,Spezia,75.0,71.75,71.667,72.333
+2022-23,Serie A,Torino,73.0,75.0,77.667,68.333
+2022-23,Serie A,Udinese,79.0,74.5,75.0,77.667
+2022-23,Serie A,Verona,76.0,75.75,76.333,75.333
+2023-24,Bundesliga,Augsburg,73.0,75.25,74.0,74.667
+2023-24,Bundesliga,Bayern Munich,87.0,83.75,86.333,86.333
+2023-24,Bundesliga,Bochum,77.0,74.0,74.333,74.0
+2023-24,Bundesliga,Darmstadt,75.0,73.0,71.667,70.667
+2023-24,Bundesliga,Dortmund,87.0,82.5,83.333,81.667
+2023-24,Bundesliga,Ein Frankfurt,85.0,76.0,80.667,75.0
+2023-24,Bundesliga,FC Koln,77.0,74.75,75.667,74.667
+2023-24,Bundesliga,Freiburg,72.0,79.25,75.333,79.667
+2023-24,Bundesliga,Heidenheim,73.0,71.75,70.333,73.333
+2023-24,Bundesliga,Hoffenheim,80.0,75.75,75.667,78.667
+2023-24,Bundesliga,Leverkusen,81.0,82.25,83.333,79.0
+2023-24,Bundesliga,M'gladbach,80.0,76.25,78.667,74.667
+2023-24,Bundesliga,Mainz,76.0,75.5,77.0,76.667
+2023-24,Bundesliga,RB Leipzig,84.0,79.75,81.333,80.0
+2023-24,Bundesliga,Stuttgart,76.0,74.5,73.0,75.333
+2023-24,Bundesliga,Union Berlin,79.0,78.5,76.333,77.0
+2023-24,Bundesliga,Werder Bremen,77.0,74.75,75.0,75.333
+2023-24,Bundesliga,Wolfsburg,84.0,76.75,79.0,77.0
+2023-24,La Liga,Alaves,73.0,74.75,73.667,73.667
+2023-24,La Liga,Almeria,78.0,75.75,76.333,75.333
+2023-24,La Liga,Ath Bilbao,83.0,79.75,80.333,80.0
+2023-24,La Liga,Ath Madrid,88.0,82.25,83.333,85.333
+2023-24,La Liga,Barcelona,89.0,85.0,86.333,85.333
+2023-24,La Liga,Betis,81.0,77.75,82.333,79.667
+2023-24,La Liga,Cadiz,82.0,74.75,75.667,76.333
+2023-24,La Liga,Celta,78.0,76.25,76.667,79.667
+2023-24,La Liga,Getafe,80.0,77.0,78.667,77.0
+2023-24,La Liga,Girona,78.0,77.75,76.667,78.0
+2023-24,La Liga,Granada,71.0,74.0,73.667,76.667
+2023-24,La Liga,Las Palmas,76.0,74.25,75.667,76.0
+2023-24,La Liga,Mallorca,78.0,76.75,77.333,77.667
+2023-24,La Liga,Osasuna,79.0,78.5,78.0,78.333
+2023-24,La Liga,Real Madrid,90.0,84.75,87.0,85.333
+2023-24,La Liga,Sevilla,80.0,82.0,81.0,80.667
+2023-24,La Liga,Sociedad,84.0,80.5,81.667,81.0
+2023-24,La Liga,Valencia,80.0,78.25,77.0,72.667
+2023-24,La Liga,Vallecano,79.0,77.0,76.0,80.0
+2023-24,La Liga,Villarreal,77.0,78.75,82.333,80.333
+2023-24,Ligue 1,Brest,76.0,72.25,73.667,72.667
+2023-24,Ligue 1,Clermont,74.0,72.5,74.333,72.0
+2023-24,Ligue 1,Le Havre,72.0,71.5,70.667,70.667
+2023-24,Ligue 1,Lens,81.0,79.25,76.0,77.667
+2023-24,Ligue 1,Lille,78.0,77.0,78.0,76.667
+2023-24,Ligue 1,Lorient,78.0,74.25,74.0,74.333
+2023-24,Ligue 1,Lyon,82.0,77.75,77.333,77.333
+2023-24,Ligue 1,Marseille,80.0,79.5,80.333,77.667
+2023-24,Ligue 1,Metz,73.0,72.5,69.333,71.0
+2023-24,Ligue 1,Monaco,72.0,77.0,79.0,80.333
+2023-24,Ligue 1,Montpellier,76.0,74.25,77.0,73.0
+2023-24,Ligue 1,Nantes,78.0,74.25,73.667,73.667
+2023-24,Ligue 1,Nice,73.0,76.75,77.0,78.333
+2023-24,Ligue 1,Paris SG,87.0,84.75,81.0,87.0
+2023-24,Ligue 1,Reims,77.0,74.75,77.333,75.0
+2023-24,Ligue 1,Rennes,79.0,75.25,80.0,78.667
+2023-24,Ligue 1,Strasbourg,79.0,74.0,74.0,71.333
+2023-24,Ligue 1,Toulouse,71.0,73.0,71.0,73.667
+2023-24,Premier League,Arsenal,84.0,81.75,85.667,84.667
+2023-24,Premier League,Aston Villa,85.0,80.75,80.333,81.333
+2023-24,Premier League,Bournemouth,78.0,74.5,76.333,77.0
+2023-24,Premier League,Brentford,82.0,78.0,76.333,76.333
+2023-24,Premier League,Brighton,75.0,79.25,77.667,79.0
+2023-24,Premier League,Burnley,75.0,74.0,75.333,76.333
+2023-24,Premier League,Chelsea,79.0,82.0,80.333,82.333
+2023-24,Premier League,Crystal Palace,79.0,77.0,78.0,76.0
+2023-24,Premier League,Everton,82.0,76.75,77.0,79.667
+2023-24,Premier League,Fulham,81.0,77.0,79.0,76.333
+2023-24,Premier League,Liverpool,89.0,85.5,82.667,86.0
+2023-24,Premier League,Luton,73.0,73.25,74.0,71.667
+2023-24,Premier League,Man City,88.0,85.0,89.333,87.0
+2023-24,Premier League,Man United,85.0,83.0,86.667,82.667
+2023-24,Premier League,Newcastle,84.0,82.25,84.0,81.333
+2023-24,Premier League,Nott'm Forest,81.0,78.0,78.333,75.667
+2023-24,Premier League,Sheffield United,75.0,73.75,74.667,71.0
+2023-24,Premier League,Tottenham,83.0,79.75,83.333,82.667
+2023-24,Premier League,West Ham,79.0,78.5,80.333,78.667
+2023-24,Premier League,Wolves,79.0,77.0,76.333,77.667
+2023-24,Serie A,Atalanta,79.0,78.75,80.0,79.333
+2023-24,Serie A,Bologna,77.0,74.5,75.667,78.0
+2023-24,Serie A,Cagliari,72.0,72.75,73.333,75.0
+2023-24,Serie A,Empoli,72.0,73.25,75.0,75.0
+2023-24,Serie A,Fiorentina,79.0,78.25,78.333,78.667
+2023-24,Serie A,Frosinone,72.0,70.5,72.333,71.333
+2023-24,Serie A,Genoa,72.0,72.75,73.0,77.667
+2023-24,Serie A,Inter,84.0,83.25,84.0,82.667
+2023-24,Serie A,Juventus,86.0,79.75,81.0,83.333
+2023-24,Serie A,Lazio,82.0,80.25,81.333,82.667
+2023-24,Serie A,Lecce,76.0,73.25,71.667,74.333
+2023-24,Serie A,Milan,87.0,82.75,80.0,83.0
+2023-24,Serie A,Monza,79.0,75.25,75.667,76.667
+2023-24,Serie A,Napoli,83.0,81.25,83.333,85.0
+2023-24,Serie A,Roma,81.0,81.25,80.667,83.333
+2023-24,Serie A,Salernitana,81.0,71.75,73.333,78.667
+2023-24,Serie A,Sassuolo,79.0,73.25,74.667,80.0
+2023-24,Serie A,Torino,76.0,76.5,75.333,79.0
+2023-24,Serie A,Udinese,79.0,74.5,76.0,75.667
+2023-24,Serie A,Verona,77.0,74.75,73.667,75.333
+2024-25,Bundesliga,Augsburg,74.0,74.25,75.0,75.0
+2024-25,Bundesliga,Bayern Munich,86.0,83.25,85.0,86.333
+2024-25,Bundesliga,Bochum,76.0,73.75,74.0,71.667
+2024-25,Bundesliga,Dortmund,88.0,81.75,83.667,82.333
+2024-25,Bundesliga,Ein Frankfurt,82.0,77.0,79.333,77.0
+2024-25,Bundesliga,Freiburg,73.0,78.25,75.0,78.667
+2024-25,Bundesliga,Heidenheim,75.0,73.5,73.667,70.667
+2024-25,Bundesliga,Hoffenheim,82.0,75.0,75.667,78.333
+2024-25,Bundesliga,Holstein Kiel,71.0,70.0,70.0,70.667
+2024-25,Bundesliga,Leverkusen,84.0,82.25,86.0,84.0
+2024-25,Bundesliga,M'gladbach,79.0,75.0,77.333,77.667
+2024-25,Bundesliga,Mainz,75.0,74.75,76.333,73.333
+2024-25,Bundesliga,RB Leipzig,82.0,81.0,81.333,81.333
+2024-25,Bundesliga,St Pauli,70.0,71.75,71.0,71.667
+2024-25,Bundesliga,Stuttgart,80.0,77.0,76.667,79.667
+2024-25,Bundesliga,Union Berlin,79.0,76.0,75.0,74.333
+2024-25,Bundesliga,Werder Bremen,76.0,75.25,75.0,75.0
+2024-25,Bundesliga,Wolfsburg,75.0,75.75,78.333,77.333
+2024-25,La Liga,Alaves,74.0,73.25,75.667,74.333
+2024-25,La Liga,Ath Bilbao,86.0,80.25,80.0,82.667
+2024-25,La Liga,Ath Madrid,88.0,82.0,82.667,85.0
+2024-25,La Liga,Barcelona,89.0,83.5,85.667,84.333
+2024-25,La Liga,Betis,81.0,77.25,80.667,78.333
+2024-25,La Liga,Celta,78.0,75.0,74.0,79.667
+2024-25,La Liga,Espanol,76.0,73.5,73.667,75.333
+2024-25,La Liga,Getafe,81.0,76.5,76.0,75.333
+2024-25,La Liga,Girona,82.0,79.75,80.333,78.667
+2024-25,La Liga,Las Palmas,81.0,74.5,77.0,76.0
+2024-25,La Liga,Leganes,78.0,72.25,73.0,75.0
+2024-25,La Liga,Mallorca,73.0,77.25,77.0,77.333
+2024-25,La Liga,Osasuna,78.0,76.0,78.0,77.0
+2024-25,La Liga,Real Madrid,89.0,86.0,88.0,89.0
+2024-25,La Liga,Sevilla,76.0,78.75,77.0,78.333
+2024-25,La Liga,Sociedad,84.0,79.5,78.667,80.0
+2024-25,La Liga,Valencia,85.0,78.25,77.333,77.333
+2024-25,La Liga,Valladolid,70.0,72.5,72.333,75.0
+2024-25,La Liga,Vallecano,76.0,77.0,75.667,79.0
+2024-25,La Liga,Villarreal,76.0,78.25,77.667,80.333
+2024-25,Ligue 1,Angers,72.0,70.0,71.667,72.0
+2024-25,Ligue 1,Auxerre,70.0,72.75,72.333,70.667
+2024-25,Ligue 1,Brest,79.0,76.0,76.667,77.0
+2024-25,Ligue 1,Le Havre,75.0,73.25,73.0,71.333
+2024-25,Ligue 1,Lens,82.0,79.0,75.0,76.667
+2024-25,Ligue 1,Lille,80.0,77.0,78.333,78.0
+2024-25,Ligue 1,Lyon,79.0,76.25,78.0,80.333
+2024-25,Ligue 1,Marseille,79.0,78.0,79.667,76.667
+2024-25,Ligue 1,Monaco,77.0,78.0,77.0,78.333
+2024-25,Ligue 1,Montpellier,77.0,73.5,77.0,74.333
+2024-25,Ligue 1,Nantes,76.0,73.25,74.667,74.333
+2024-25,Ligue 1,Nice,79.0,77.0,76.0,77.333
+2024-25,Ligue 1,Paris SG,89.0,84.25,82.333,83.0
+2024-25,Ligue 1,Reims,77.0,75.0,75.667,75.667
+2024-25,Ligue 1,Rennes,78.0,75.5,76.0,77.333
+2024-25,Ligue 1,St Etienne,74.0,72.25,70.667,72.333
+2024-25,Ligue 1,Strasbourg,79.0,71.5,72.667,73.667
+2024-25,Ligue 1,Toulouse,78.0,73.75,74.333,73.0
+2024-25,Premier League,Arsenal,83.0,84.0,87.0,84.333
+2024-25,Premier League,Aston Villa,87.0,80.5,81.667,81.667
+2024-25,Premier League,Bournemouth,79.0,76.5,77.0,78.333
+2024-25,Premier League,Brentford,79.0,77.75,76.667,79.667
+2024-25,Premier League,Brighton,76.0,79.25,78.0,78.667
+2024-25,Premier League,Chelsea,79.0,80.75,82.667,82.333
+2024-25,Premier League,Crystal Palace,79.0,79.0,80.333,77.0
+2024-25,Premier League,Everton,83.0,77.75,75.667,77.0
+2024-25,Premier League,Fulham,82.0,78.25,76.333,76.333
+2024-25,Premier League,Ipswich,75.0,74.5,76.0,73.667
+2024-25,Premier League,Leicester,76.0,76.25,77.0,76.333
+2024-25,Premier League,Liverpool,89.0,85.75,82.333,86.0
+2024-25,Premier League,Man City,88.0,85.25,89.667,87.667
+2024-25,Premier League,Man United,83.0,83.0,84.0,79.667
+2024-25,Premier League,Newcastle,83.0,81.25,84.0,82.667
+2024-25,Premier League,Nott'm Forest,77.0,78.25,78.333,76.667
+2024-25,Premier League,Southampton,81.0,75.5,74.333,75.333
+2024-25,Premier League,Tottenham,84.0,82.75,82.0,83.333
+2024-25,Premier League,West Ham,81.0,78.75,81.0,82.0
+2024-25,Premier League,Wolves,79.0,77.75,78.0,78.0
+2024-25,Serie A,Atalanta,82.0,79.5,79.667,79.667
+2024-25,Serie A,Bologna,79.0,77.25,78.667,78.0
+2024-25,Serie A,Cagliari,73.0,74.25,73.667,72.333
+2024-25,Serie A,Como,79.0,76.0,73.333,76.0
+2024-25,Serie A,Empoli,69.0,73.25,71.667,73.333
+2024-25,Serie A,Fiorentina,79.0,78.0,77.667,78.333
+2024-25,Serie A,Genoa,76.0,72.5,75.667,74.333
+2024-25,Serie A,Inter,87.0,84.75,85.333,84.0
+2024-25,Serie A,Juventus,80.0,81.0,83.0,82.333
+2024-25,Serie A,Lazio,83.0,79.5,78.667,80.333
+2024-25,Serie A,Lecce,80.0,74.25,73.0,73.333
+2024-25,Serie A,Milan,87.0,82.0,82.0,84.0
+2024-25,Serie A,Monza,74.0,74.5,76.667,75.333
+2024-25,Serie A,Napoli,81.0,80.25,80.0,84.667
+2024-25,Serie A,Parma,72.0,73.25,75.333,73.333
+2024-25,Serie A,Roma,78.0,78.5,83.667,80.333
+2024-25,Serie A,Torino,77.0,76.75,77.667,78.333
+2024-25,Serie A,Udinese,74.0,73.0,72.667,72.0
+2024-25,Serie A,Venezia,74.0,70.75,72.667,71.667
+2024-25,Serie A,Verona,77.0,73.75,74.667,74.333
+2025-26,Bundesliga,Augsburg,77.0,76.5,75.667,74.0
+2025-26,Bundesliga,Bayern Munich,84.0,84.5,86.333,86.667
+2025-26,Bundesliga,Dortmund,86.0,82.5,81.667,82.333
+2025-26,Bundesliga,Ein Frankfurt,76.0,79.5,80.0,80.333
+2025-26,Bundesliga,FC Koln,77.0,71.75,75.0,75.667
+2025-26,Bundesliga,Freiburg,77.0,78.25,74.667,76.333
+2025-26,Bundesliga,Hamburg,74.0,73.75,75.333,74.0
+2025-26,Bundesliga,Heidenheim,74.0,73.25,73.667,73.667
+2025-26,Bundesliga,Hoffenheim,83.0,75.0,76.333,75.667
+2025-26,Bundesliga,Leverkusen,78.0,76.25,83.0,82.667
+2025-26,Bundesliga,M'gladbach,76.0,74.75,76.0,79.333
+2025-26,Bundesliga,Mainz,78.0,76.5,79.333,73.667
+2025-26,Bundesliga,RB Leipzig,85.0,81.5,78.0,77.667
+2025-26,Bundesliga,St Pauli,77.0,72.0,73.667,72.667
+2025-26,Bundesliga,Stuttgart,81.0,78.0,78.333,79.0
+2025-26,Bundesliga,Union Berlin,80.0,76.5,74.333,72.667
+2025-26,Bundesliga,Werder Bremen,73.0,76.25,78.0,76.333
+2025-26,Bundesliga,Wolfsburg,79.0,77.25,78.0,78.333
+2025-26,La Liga,Alaves,76.0,74.25,74.667,75.0
+2025-26,La Liga,Ath Bilbao,85.0,79.5,80.667,83.667
+2025-26,La Liga,Ath Madrid,88.0,83.25,81.333,85.333
+2025-26,La Liga,Barcelona,86.0,83.75,87.0,88.667
+2025-26,La Liga,Betis,79.0,78.5,81.667,78.667
+2025-26,La Liga,Celta,74.0,78.25,76.333,80.0
+2025-26,La Liga,Elche,76.0,74.0,71.333,73.333
+2025-26,La Liga,Espanol,79.0,75.0,75.667,76.0
+2025-26,La Liga,Getafe,81.0,75.75,78.333,74.667
+2025-26,La Liga,Girona,80.0,77.5,76.667,78.0
+2025-26,La Liga,Levante,69.0,73.5,73.333,74.333
+2025-26,La Liga,Mallorca,77.0,78.5,77.0,78.333
+2025-26,La Liga,Osasuna,79.0,77.25,77.667,78.333
+2025-26,La Liga,Oviedo,75.0,74.0,74.333,73.667
+2025-26,La Liga,Real Madrid,89.0,85.25,87.667,88.333
+2025-26,La Liga,Sevilla,76.0,75.75,76.0,76.667
+2025-26,La Liga,Sociedad,83.0,76.75,80.0,81.0
+2025-26,La Liga,Valencia,79.0,77.0,76.667,78.0
+2025-26,La Liga,Vallecano,79.0,77.75,78.667,77.0
+2025-26,La Liga,Villarreal,77.0,77.75,81.0,81.333
+2025-26,Ligue 1,Angers,73.0,71.5,73.333,66.333
+2025-26,Ligue 1,Auxerre,76.0,72.75,72.0,73.0
+2025-26,Ligue 1,Brest,77.0,75.5,74.667,75.333
+2025-26,Ligue 1,Le Havre,70.0,72.75,73.333,71.667
+2025-26,Ligue 1,Lens,71.0,76.0,73.0,75.0
+2025-26,Ligue 1,Lille,77.0,77.0,78.333,76.667
+2025-26,Ligue 1,Lorient,70.0,72.25,72.0,71.0
+2025-26,Ligue 1,Lyon,78.0,77.25,78.333,75.667
+2025-26,Ligue 1,Marseille,82.0,81.25,79.0,81.0
+2025-26,Ligue 1,Metz,69.0,69.75,73.667,72.0
+2025-26,Ligue 1,Monaco,81.0,78.0,79.333,79.0
+2025-26,Ligue 1,Nantes,76.0,71.5,74.0,74.0
+2025-26,Ligue 1,Nice,78.0,78.25,76.667,76.0
+2025-26,Ligue 1,Paris FC,81.0,74.5,76.333,75.667
+2025-26,Ligue 1,Paris SG,83.0,87.0,86.333,87.333
+2025-26,Ligue 1,Rennes,80.0,76.0,78.0,76.333
+2025-26,Ligue 1,Strasbourg,73.0,76.5,75.0,76.333
+2025-26,Ligue 1,Toulouse,78.0,74.5,73.667,71.667
+2025-26,Premier League,Arsenal,87.0,85.25,85.667,86.0
+2025-26,Premier League,Aston Villa,85.0,80.25,83.333,81.667
+2025-26,Premier League,Bournemouth,80.0,77.0,79.0,79.333
+2025-26,Premier League,Brentford,79.0,77.25,78.667,76.667
+2025-26,Premier League,Brighton,78.0,79.5,78.667,79.0
+2025-26,Premier League,Burnley,77.0,76.75,76.667,75.0
+2025-26,Premier League,Chelsea,78.0,81.0,86.0,79.0
+2025-26,Premier League,Crystal Palace,81.0,80.0,78.333,79.333
+2025-26,Premier League,Everton,84.0,78.25,77.333,79.0
+2025-26,Premier League,Fulham,80.0,78.75,78.0,79.0
+2025-26,Premier League,Leeds,81.0,76.5,76.667,76.0
+2025-26,Premier League,Liverpool,89.0,85.25,87.0,87.667
+2025-26,Premier League,Man City,89.0,83.75,86.667,86.333
+2025-26,Premier League,Man United,80.0,80.75,83.333,80.667
+2025-26,Premier League,Newcastle,81.0,81.0,84.667,82.0
+2025-26,Premier League,Nott'm Forest,83.0,81.0,80.667,79.667
+2025-26,Premier League,Sunderland,74.0,78.5,79.333,76.0
+2025-26,Premier League,Tottenham,82.0,81.5,83.667,80.333
+2025-26,Premier League,West Ham,77.0,77.75,78.333,80.0
+2025-26,Premier League,Wolves,77.0,77.0,77.333,78.333
+2025-26,Serie A,Atalanta,84.0,79.0,81.667,80.667
+2025-26,Serie A,Bologna,79.0,75.25,78.333,79.0
+2025-26,Serie A,Cagliari,76.0,75.5,73.667,74.333
+2025-26,Serie A,Como,76.0,76.75,78.0,78.333
+2025-26,Serie A,Cremonese,78.0,72.75,72.333,74.667
+2025-26,Serie A,Fiorentina,85.0,77.25,76.333,81.0
+2025-26,Serie A,Genoa,71.0,73.25,76.333,74.0
+2025-26,Serie A,Inter,87.0,85.0,85.333,83.667
+2025-26,Serie A,Juventus,81.0,81.0,82.0,82.333
+2025-26,Serie A,Lazio,82.0,79.25,79.333,81.333
+2025-26,Serie A,Lecce,81.0,72.0,72.333,73.0
+2025-26,Serie A,Milan,87.0,78.5,82.333,82.333
+2025-26,Serie A,Napoli,82.0,82.25,85.0,82.0
+2025-26,Serie A,Parma,74.0,74.0,74.333,73.667
+2025-26,Serie A,Pisa,72.0,69.0,74.667,74.0
+2025-26,Serie A,Roma,82.0,80.75,82.0,80.333
+2025-26,Serie A,Sassuolo,74.0,72.0,75.333,79.0
+2025-26,Serie A,Torino,75.0,76.75,76.333,78.333
+2025-26,Serie A,Udinese,74.0,73.75,74.667,73.667
+2025-26,Serie A,Verona,76.0,74.0,75.333,72.0

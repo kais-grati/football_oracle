@@ -28,8 +28,8 @@ LEAGUES = [
     ("F1", "Ligue 1"),
 ]
 
-# football-data season codes: 2425 = 2024/25
-SEASONS = ["2425"]
+# football-data season codes: 2122 = 2021/22 ... 2526 = 2025/26
+SEASONS = ["2122", "2223", "2324", "2425", "2526"]
 
 OUTPUT_PATH = Path(__file__).resolve().parent / "football_matches_odds.csv"
 
