@@ -1,0 +1,21 @@
+{
+  "event_id": 213657,
+  "odds": {
+    "home_win": 1.15,
+    "draw": 8.61,
+    "away_win": 14.86,
+    "over_15_goals": 1.07,
+    "over_25_goals": 1.33,
+    "over_35_goals": 1.88,
+    "under_15_goals": 7.2,
+    "under_25_goals": 3.21,
+    "under_35_goals": 1.96,
+    "btts_yes": 1.92,
+    "btts_no": 1.8
+  },
+  "last_update_at": "2026-11-25T10:50:05Z",
+  "last_change_at": "2026-11-25T05:05:06Z",
+  "next_update_at": "2026-11-25T14:50:05Z",
+  "update_interval_seconds": 14400,
+  "update_reason": "pre-match, more than a day out"
+}

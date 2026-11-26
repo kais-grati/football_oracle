@@ -1,20 +1,37 @@
-# Virtual environment
+# Virtual environments
 .venv/
 venv/
+env/
 
-# Python caches
+# Python caches and build output
 __pycache__/
 *.py[cod]
 *.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
 
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Downloaded raw datasets (re-fetched by build_player_ratings.py)
+# Local data, downloaded datasets, and runtime state
 data/
+ea_fc26_*.csv
+*.sqlite
+*.sqlite-*
+*.joblib
+*.log
 
 # OS / editor noise
 .DS_Store
 .idea/
 .vscode/
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key

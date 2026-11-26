@@ -1,0 +1,14 @@
+Variant,2022-23,2023-24,2024-25,2025-26
+baseline,0.5996,5.6665,-0.5173,9.8613
+log_odds,1.544,5.6432,-0.5094,8.7677
+two_logits,1.0635,6.9375,3.2363,7.487
+two_logits_calendar,1.5608,5.3966,1.8563,7.3687
+two_logits_cyclical,2.6523,4.9703,2.5345,6.9996
+two_logits_calendar_cyclical,2.7563,5.2217,3.0764,8.4548
+calendar_flags,2.2599,4.8375,1.547,10.0365
+cyclical_time,1.061,4.3444,1.2276,10.4992
+onehot_league,1.5037,4.3247,-0.4174,9.7732
+two_logits_onehot,0.1978,4.7946,3.4255,7.0419
+cyclical_onehot,2.1131,4.3444,1.5556,8.5627
+two_logits_cyclical_onehot,1.9988,2.2486,3.0396,8.0199
+log_odds_cyclical_onehot,1.6353,3.9713,-1.5017,8.1805

@@ -1,0 +1,61 @@
+{
+  "id": "203561169",
+  "home": "Levante",
+  "away": "Racing Santander",
+  "league": "Spain La Liga",
+  "region": "Spain",
+  "in_play": false,
+  "entry_tab": "1",
+  "last_live_seen": "0001-01-01T00:00:00Z",
+  "sport": "soccer",
+  "last_seen": "2026-11-25T10:51:41.525216778Z",
+  "discovery_source": "competition-list",
+  "kickoff_utc": "2026-11-27T20:00:00Z",
+  "quotes": [
+    {
+      "fixture_id": "203561169",
+      "group_id": "40",
+      "group_name": "Full Time Result",
+      "market_id": "40",
+      "sel_id": "310724506",
+      "label": "Levante",
+      "n2": "1",
+      "odds_dec": 2.05,
+      "odds_frac": "21/20",
+      "ts": "2026-11-23T04:30:11.812399483Z"
+    },
+    {
+      "fixture_id": "203561169",
+      "group_id": "40",
+      "group_name": "Full Time Result",
+      "market_id": "40",
+      "sel_id": "310724509",
+      "label": "Draw",
+      "n2": "X",
+      "odds_dec": 3.6,
+      "odds_frac": "13/5",
+      "ts": "2026-11-23T04:30:11.812399483Z"
+    },
+    {
+      "fixture_id": "203561169",
+      "group_id": "40",
+      "group_name": "Full Time Result",
+      "market_id": "40",
+      "sel_id": "310724512",
+      "label": "Racing Santander",
+      "n2": "2",
+      "odds_dec": 3.2,
+      "odds_frac": "11/5",
+      "ts": "2026-11-23T04:30:11.812399483Z"
+    }
+  ],
+  "market_count": 100,
+  "polled_at": "2026-11-25T10:52:21.51437473Z",
+  "refresh_s": 180,
+  "polled_age_s": 28,
+  "group_status": {
+    "40": {
+      "polled_at": "2026-11-25T10:52:21.472606964Z"
+    }
+  }
+}

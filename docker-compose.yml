@@ -1,0 +1,30 @@
+services:
+  paper-trader:
+    build:
+      context: .
+      args:
+        PYTHON_VERSION: ${PYTHON_VERSION:-3.14}
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+    image: football-oracle-paper-trader:latest
+    container_name: paper-trader
+    init: true
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      TZ: "${TZ:-Europe/Madrid}"
+    volumes:
+      - ./data/paper:/app/data/paper
+    command:
+      - python
+      - paper_trader.py
+      - run
+      - --interval
+      - "${PAPER_TICK_SECONDS:-30}"
+    stop_grace_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

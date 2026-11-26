@@ -1,0 +1,17 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.py[cod]
+*.ipynb
+.ipynb_checkpoints
+data
+reports
+.env
+.env.*
+ea_fc26_*.csv
+team_ratings.csv
+model_predictions.csv
+model_comparison.csv
+test.py

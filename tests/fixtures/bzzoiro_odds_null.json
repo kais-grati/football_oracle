@@ -1,0 +1,21 @@
+{
+  "event_id": 215745,
+  "odds": {
+    "home_win": null,
+    "draw": null,
+    "away_win": null,
+    "over_15_goals": null,
+    "over_25_goals": null,
+    "over_35_goals": null,
+    "under_15_goals": null,
+    "under_25_goals": null,
+    "under_35_goals": null,
+    "btts_yes": null,
+    "btts_no": null
+  },
+  "last_update_at": null,
+  "last_change_at": null,
+  "next_update_at": "2026-11-25T10:52:49Z",
+  "update_interval_seconds": 14400,
+  "update_reason": "pre-match, more than a day out"
+}
